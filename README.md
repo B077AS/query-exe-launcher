@@ -1,4 +1,7 @@
-# query-exe-launcher
+<h1 align="center">
+  <img src="src/main/resources/icon.png" alt="QueryExe icon" width="80"><br>
+  query-exe-launcher
+</h1>
 
 <p align="center">
   <b>The auto-updating launcher for <a href="https://github.com/B077AS/query-exe">QueryExe</a> — a free, cross-platform database client.</b><br>
